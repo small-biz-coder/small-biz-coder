@@ -1,4 +1,8 @@
-## Hi there 👋
+My name is Andrew Beiler.
+
+My backgroud is mostly in the construction industry, but I've always enjoyed laptops and smart phones, and recently taught myself how to build websites with HTML, CSS, and JavaScript. I enjoy using these skills to help small businesses especially in the trades, as I know that world well, and now want to help such businesses use great technology to grow and modernize their business.
+
+I'm currently learning React, and working on building a Customer Relations Management(CRM) App. Still learning JavaScript and a bit of Node.js in this project.
 
 <!--
 **small-biz-coder/small-biz-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
