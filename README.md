@@ -1,8 +1,9 @@
 My name is Andrew Beiler.
 
-My backgroud is mostly in the construction industry, but I've always enjoyed laptops and smart phones, and recently taught myself how to build websites with HTML, CSS, and JavaScript. I enjoy using these skills to help small businesses especially in the trades, as I know that world well, and now want to help such businesses use great technology to grow and modernize their business.
-
-I'm currently learning React, and working on building a Customer Relations Management(CRM) App. Still learning JavaScript and a bit of Node.js in this project.
+I specialize in building fast, mobile-first websites that help small businesses connect with more customers. With expertise in JavaScript and Node.js, I create custom solutions that prioritize performance, SEO, and user experience—no bloated page builders, just efficient, secure code.
+My background in construction taught me the value of building things right the first time. Now I apply that same integrity to web development, crafting digital tools that drive real business growth.
+Tech Stack: JavaScript, Node.js, HTML5, CSS3, React
+Focus: Mobile-first design, page speed optimization, SEO, custom web solutions
 
 <!--
 **small-biz-coder/small-biz-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
