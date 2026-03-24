@@ -8,7 +8,7 @@ I worked in construction and trucking for the first 15 years of my career, so I 
 
 ## Stack
 
-Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
+Languages: JavaScript (ES6+),TypeScript, HTML5, CSS3
 Frontend: React, Vanilla JS, Mobile-first / responsive design
 Backend: Node.js, Express, REST APIs
 Tools & Services: Google Maps API, PDFKit, Nodemailer, WordPress REST API (headless), Vite, Git
@@ -36,6 +36,8 @@ Custom construction company portfolio site using WordPress as a headless CMS, pu
 - Architected the REST API integration and async data flow from scratch
 - Fully hand-coded — zero page builders, zero theme dependencies
 
+ 🔗 [lawn care estimater](https://wptestforab.com) 
+
 ### Harvest Clicks — Agency Website
 HTML5 · CSS3 · Vanilla JS
 
@@ -53,8 +55,8 @@ I came to development from a background in construction and trades. That backgro
 
 ## Connect
 
-- 🌐 harvestclicks.com - https://harvestclicks.com
-- 💼 upwork - https://www.upwork.com/freelancers/~0118a3327324346d27?mp_source=share
+- 🌐  [harvestclicks.com](https://harvestclicks.com)
+- 💼 [upwork](https://www.upwork.com/freelancers/~0118a3327324346d27?mp_source=share)
 - 📧 andrew@harvestclicks.com
 
 <!--
