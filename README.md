@@ -56,7 +56,6 @@ I came to development from a background in construction and trades. That backgro
 ## Connect
 
 - 🌐  [harvestclicks.com](https://harvestclicks.com)
-- 💼 [upwork](https://www.upwork.com/freelancers/~0118a3327324346d27?mp_source=share)
 - 📧 andrew@harvestclicks.com
 
 <!--
